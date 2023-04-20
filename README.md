@@ -1,1 +1,1 @@
-shopping cart with listed products stored locally and functionality for adding removing and calculating subtotal
+shopping cart with listed products stored locally and functionality for adding removing and calculating subtotal.
